@@ -1,0 +1,35 @@
+[profile.default]
+src = "contracts"
+out = "out"
+libs = ["node_modules", "lib"]
+remappings = [
+    "forge-std/=lib/forge-std/src/",
+    "@openzeppelin/=lib/openzeppelin-contracts/",
+]
+ignored_error_codes = [2018]
+fs_permissions = [{ access = "read-write", path = "deployments.json"}, { access = "read", path = "./XScanTokens"}, { access = "read-write", path = "./script/config"}]
+
+
+no_match_path = "{*/stash*,*/debug.t.sol}"
+
+evm_version = 'prague'
+solc = '0.8.33'
+optimizer = true
+optimizer_runs = 200
+via_ir = true
+
+[rpc_endpoints]
+# Alchemy (same access token across all networks). Use via: forge script ... --rpc-url <name>
+ethereum  = "https://eth-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+base      = "https://base-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+arbitrum  = "https://arb-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+optimism  = "https://opt-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+polygon   = "https://polygon-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+bsc       = "https://bnb-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+avalanche = "https://avax-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+berachain = "https://berachain-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+megaeth   = "https://megaeth-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+monad     = "https://monad-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+hyperevm  = "https://hyperliquid-mainnet.g.alchemy.com/v2/sWIgoNy7Z9oYR5-OXzCZOqNf4fWrFi9N"
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

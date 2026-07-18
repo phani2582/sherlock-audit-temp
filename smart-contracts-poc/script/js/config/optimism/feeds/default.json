@@ -1,0 +1,257 @@
+{
+  "oracle": "0x0000000000000000000000000000000000000000",
+  "tokens": [
+    {
+      "pythLazerId": 8,
+      "baseTokenSymbol": "USDT",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 7,
+      "baseTokenSymbol": "USDC",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 19,
+      "baseTokenSymbol": "LINK",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 103,
+      "baseTokenSymbol": "WBTC",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 631,
+      "baseTokenSymbol": "WETH",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x4200000000000000000000000000000000000006",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 25,
+      "baseTokenSymbol": "UNI",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 104,
+      "baseTokenSymbol": "WLD",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 236,
+      "baseTokenSymbol": "RLUSD",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x8d58C0C60B8D6b88Fa98B291a646dB34d0F98258",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 85,
+      "baseTokenSymbol": "ENA",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 105,
+      "baseTokenSymbol": "ZRO",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 634,
+      "baseTokenSymbol": "wstETH",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 41,
+      "baseTokenSymbol": "OP",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x4200000000000000000000000000000000000042",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 204,
+      "baseTokenSymbol": "USDe",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 202,
+      "baseTokenSymbol": "DAI",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 64,
+      "baseTokenSymbol": "PENDLE",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 398,
+      "baseTokenSymbol": "cbETH",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 582,
+      "baseTokenSymbol": "sUSDe",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 50,
+      "baseTokenSymbol": "LDO",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 102,
+      "baseTokenSymbol": "W",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 588,
+      "baseTokenSymbol": "tBTC",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 3,
+      "baseTokenSymbol": "PYTH",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x99C59ACeBFEF3BBFB7129DC90D1a11DB0E91187f",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 106,
+      "baseTokenSymbol": "SNX",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 150,
+      "baseTokenSymbol": "1INCH",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0xAd42D013ac31486B73b6b059e748172994736426",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 264,
+      "baseTokenSymbol": "YFI",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 450,
+      "baseTokenSymbol": "HYPER",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x9923DB8d7FBAcC2E69E87fAd19b886C81cd74979",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 115,
+      "baseTokenSymbol": "CELO",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x9b88D293b7a791E40d36A39765FFd5A1B9b5c349",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 573,
+      "baseTokenSymbol": "STG",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 465,
+      "baseTokenSymbol": "KNC",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 541,
+      "baseTokenSymbol": "RPL",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0xC81D1F0EB955B0c020E5d5b264E1FF72c14d1401",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 253,
+      "baseTokenSymbol": "WOO",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x871f2F2ff935FD1eD867842FF2a7bfD051A5E527",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 228,
+      "baseTokenSymbol": "FRAX",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 619,
+      "baseTokenSymbol": "VELO",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 430,
+      "baseTokenSymbol": "frxUSD",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 429,
+      "baseTokenSymbol": "frxETH",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 429,
+      "baseTokenSymbol": "frxETH",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    },
+    {
+      "pythLazerId": 423,
+      "baseTokenSymbol": "ezETH",
+      "quoteTokenSymbol": "USDC",
+      "baseTokenAddress": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "quoteTokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+    }
+  ]
+}
